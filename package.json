@@ -1,6 +1,6 @@
 {
   "name": "aksoni007-verify-jwt",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Verify JWT Token in client side",
   "main": "index.js",
   "scripts": {
