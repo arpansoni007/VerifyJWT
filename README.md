@@ -2,8 +2,9 @@
 This package will verify the authenticity of JWT in Client Side with issuer and inspired by Tymon/JWT Package.
 
 ## Installation
-    npm i aks-verify-jwt --save
     
+    npm i aks-verify-jwt --save
+
 
 ## Usage
 
