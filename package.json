@@ -1,0 +1,36 @@
+{
+  "name": "aksoni007-verify-jwt",
+  "version": "0.1.0",
+  "description": "Verify JWT Token in client side",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpansoni007/VerifyJWT.git"
+  },
+  "keywords": [
+    "JWT",
+    "JWT-verify",
+    "Verify-JWT",
+    "JWT-verify",
+    "JSON",
+    "WEB",
+    "TOKEN"
+  ],
+  "author": "Arpan Kumar Soni <arpansoni0007@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arpansoni007/VerifyJWT/issues"
+  },
+  "homepage": "https://github.com/arpansoni007/VerifyJWT#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.0"
+  },
+  "dependencies": {
+    "atob": "^2.1.0",
+    "mock-local-storage": "^1.0.5"
+  }
+}
