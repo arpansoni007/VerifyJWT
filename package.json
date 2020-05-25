@@ -32,5 +32,6 @@
   "dependencies": {
     "atob": "^2.1.0",
     "mock-local-storage": "^1.0.5"
+    
   }
 }

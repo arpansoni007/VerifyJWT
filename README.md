@@ -3,6 +3,7 @@ This package will verify the authenticity of JWT in Client Side with issuer and 
 
 ## Installation
     npm i aks-verify-jwt --save
+    
 
 ## Usage
 
