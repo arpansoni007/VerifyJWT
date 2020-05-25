@@ -1,6 +1,6 @@
 {
   "name": "aks-verify-jwt",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Verify JWT Token in client side",
   "main": "index.js",
   "scripts": {
