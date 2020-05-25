@@ -1,5 +1,5 @@
 {
-  "name": "aksoni007-verify-jwt",
+  "name": "aks-verify-jwt",
   "version": "1.0.0",
   "description": "Verify JWT Token in client side",
   "main": "index.js",
