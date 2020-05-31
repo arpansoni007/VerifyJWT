@@ -1,4 +1,4 @@
-# Tymon Verify-JWT Token 
+# Verify-JWT Token 
 This package will verify the authenticity of JWT in Client Side with issuer and inspired by Tymon/JWT Package.
 
 ## Installation
