@@ -1,6 +1,6 @@
 {
   "name": "aks-verify-jwt",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Verify JWT Token in client side",
   "main": "index.js",
   "scripts": {
@@ -32,6 +32,5 @@
   "dependencies": {
     "atob": "^2.1.0",
     "mock-local-storage": "^1.0.5"
-    
   }
 }
